@@ -1,0 +1,7 @@
+#根据自己购买的阿里OSS填充数据
+aliyun:
+  oss:
+    ENDPOINT:
+    ACCESS_KEY_ID:
+    SECRET_ACCESS_KEY:
+    BUCKET_NAME:
